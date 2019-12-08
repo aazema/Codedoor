@@ -1,0 +1,34 @@
+1)
+
+Taxi service - its function is to take you to your destination
+Pizza Restaurant - its funtion is to serve you pizza there
+Hotels - their function is to provide you with short term accommodation 
+Smartphones - their function is to help you get in contact with people
+
+2)
+
+1: Identify and define your current assumptions.
+2: Breakdown the problem into its fundamental principles.
+3: Create new solutions from scratch.
+
+1: The problem is that my 5 year old daughter struggles to read.
+2: In order to read pharagraphs she needs to learn how to read sentences. In order to read sentences she needs to learn how to read words. 
+In order to read words she needs to learn letters.
+3: The solution would be to learn letters first, then practise read the words, then sentences, then pharagrahs every day. Over time she will learn how to read.
+
+3)
+
+What is problem solving?
+Problem solving is the ability to define the problem and select the best solution out of all possible soultions and then implement the selected solution.
+
+Why it is important to understand a problem?
+It is important to understand a problem so we understand why the problem has happened and then figure out the way to fix it.
+
+Why it is important to make a plan how to solve the problem?
+It is important to make a plan how to solve the problem so there are certain guidelines to follow in order to solve the problem.
+
+Why it is important to divide the problem into small parts?
+Dividing the problem into small parts enables you to determine all little tasks needed to solve the problem which will help you to find the best solution.
+
+Why it is important to debug a solution?
+The most important part in problem solving is to debug a solution. It is when we finally know how the problem can be solved.
